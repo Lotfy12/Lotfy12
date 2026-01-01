@@ -85,9 +85,38 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lotfy12&theme=react&hide_border=false)
 
+
+  <a href="https://github.com/Lotfy12">
+    <img
+      alt="Lotfy Github Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Lotfy12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=d6d6d6"
+      height="192px"
+      align="left"
+    />
+  </a>
+
+  <a href="https://github.com/Lotfy12">
+    <img
+      alt="Lotfy Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Lotfy12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=F8D866"
+      height="192px"
+      align="right"
+    />
+  </a>
+
+  <br style="clear: both;" />
+  
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF"/>
+</div>
+
+
 </div>  
 
 
+<!--
 <a href="https://github.com/Lotfy12/github-readme-stats">
     <img align="left" alt="Lotfy12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lotfy12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
@@ -95,8 +124,4 @@
     <img align="right" alt="Lotfy12's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lotfy12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF"/>
-</div>
-
+-->
